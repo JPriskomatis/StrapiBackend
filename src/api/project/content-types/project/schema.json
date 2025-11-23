@@ -27,6 +27,9 @@
         "images",
         "files"
       ]
+    },
+    "link": {
+      "type": "string"
     }
   }
 }
